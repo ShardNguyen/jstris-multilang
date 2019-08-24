@@ -116,7 +116,7 @@ return [
     'repTxtInfo' => 'Bản copy của replay có thể được phát lại trong máy phát lại trên web hoặc được đăng lại trên trang web.',
     'newPB' => 'KỈ LỤC CÁ NHÂN MỚI',
     'firstPB' => 'Đây là lượt chơi đầu tiên của bạn. Cố gắng phá kỉ lục cá nhân để xem tiến độ của bạn.',
-    'infoPB' => 'Kí lục cá nhân cũ của bạn là {prevPB} đã đạt vào {prevAgo}. Với độ chênh lệch là {PBdiff}.',
+    'infoPB' => 'Kỉ lục cá nhân cũ của bạn là {prevPB} đã đạt vào {prevAgo}. Với độ chênh lệch là {PBdiff}.',
     'daysAgo' => 'ngày trước',
     'raceFin' => 'CUỘC ĐUA ĐÃ KẾT THÚC',
     'raceFinInfo' => 'Bạn có thể hoàn thành map này, nhưng vòng đua tiếp theo có bắt đầu bất kì lúc nào.',
